@@ -11,8 +11,8 @@ Os objetivos desse curso de extensão são introduzir brevemente os conceitos b�
 
 - **Para o aluno mais interessado, as seguintes referências complementares são recomendadas:**
 
-- Jurafsky, D. and Martin, J.H. (2008). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. 2a edição. Prentice Hall. Material parcialmente disponível no site de um dos autores em https://web.stanford.edu/~jurafsky/slp3/
-- VanderPlas, J. (2016). A Whirlwind Tour of Python. O’Reilly Media Inc. Disponível em https://jakevdp.github.io/WhirlwindTourOfPython/
+  - Jurafsky, D. and Martin, J.H. (2008). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. 2a edição. Prentice Hall. Material parcialmente disponível no site de um dos autores em https://web.stanford.edu/~jurafsky/slp3/
+  - VanderPlas, J. (2016). A Whirlwind Tour of Python. O’Reilly Media Inc. Disponível em https://jakevdp.github.io/WhirlwindTourOfPython/
 
 Esse curso é promovido pelo [Núcleo Interinstitucional de Linguística Computacional (NILC)](http://www.nilc.icmc.usp.br/) em parceria com o [Centro de Inteligência Artificial da USP (C4AI)](http://c4ai.inova.usp.br/) e a equipe do projeto [POeTiSA (POrtuguese processing - Towards Syntactic Analysis and parsing)](https://sites.google.com/icmc.usp.br/poetisa). O curso é ofertado no âmbito das comemorações dos [50 anos do ICMC](https://50anos.icmc.usp.br/), que contam com o apoio do Santander.
 
